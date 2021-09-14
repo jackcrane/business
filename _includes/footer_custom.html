@@ -1,10 +1,54 @@
 Created by Jack Crane for Robert Jablonski's Business and Leadership Course
 
+<script>
+  function getCookie(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for(let i = 0; i <ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "";
+  }
+
+  let theme = getCookie('theme');
+  jtd.setTheme(theme);
+
+  const switchTheme = () => {
+    document.cookie = `theme=${theme == 'light' ? 'dark' : 'light'}`;
+    theme = theme == 'light' ? 'dark' : 'light';
+    jtd.setTheme(theme);
+  }
+</script>
+
+<hr>
+
+<span class="fs-3">
+  <button class="switcher btn btn-outline btn-blue" onclick="{switchTheme()}">Switch Theme</button>
+</span>
+
 <style>
   blockquote {
     margin-left: 0;
     margin-right: 0;
     padding-left: 5px;
     border-left: 5px solid #7253ed;
+  }
+  @media print {
+    .video, .switcher {
+      display: none;
+    }
+  }
+  * {
+    transition: color .1s, background-color .1s, background-image .1s;
+  }
+  .switcher {
+    display: block;
   }
 </style>
