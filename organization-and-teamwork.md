@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Organization and teamwork
+nav_order: 9
 ---
 
 # Organization and teamwork
