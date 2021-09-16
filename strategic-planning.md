@@ -14,7 +14,7 @@ nav_order: 13
 
 # Strategic Planning
 
-> A management system that moves the focuse from "what to acheive" (objectives) to "what to do" (strategies).
+> A management system that moves the focus from "what to achieve" (objectives) to "what to do" (strategies).
 
 It is the identification of the opportunities and threats that will arise in the future, which, combined with other important data, supply the base for a company to make better decisions in the resent to exploit opportunities and avoid dangers.
 
@@ -51,4 +51,4 @@ The more mathematical a plan can be, the better you can support your decision.
 1. Product-market investment
 2. Customer value proposition
 3. Asset and competencies
-4. Funcitonal strategies
+4. Functional strategies

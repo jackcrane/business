@@ -7,7 +7,7 @@ permalink: /
 
 # Griffin Business and Leadership Course
 
-Welcome to our business foundations course! This course will utilize all the skills you have developed for communication, leadership, teamwork, problem solving, math as well as critical and analyticical thinking. 
+Welcome to our business foundations course! This course will utilize all the skills you have developed for communication, leadership, teamwork, problem solving, math as well as critical and analytical thinking. 
 How to be successful in this course:
 1. Read the assigned material. We will use about three sessions on each chapter.
 2. Study the vocabulary in each chapter. Use flashcards, write words and definition or any other study aids you need.

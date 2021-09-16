@@ -96,7 +96,7 @@ One partner is more liable than the other.
 
 ## Corporations
 
-A legal entity, defined by the state, whose assets and liability are seperate from its owners.
+A legal entity, defined by the state, whose assets and liability are separate from its owners.
 
 Has many rights, duties, and the powers of a person:
 - Can own and transfer properties
@@ -111,7 +111,7 @@ Corporations are taxed both on their salaries and their dividends, making it les
 
 ## Joint Ventures
 
-A partnership established for a specific project or limited time. Typically large captial for a short-term project like *oil drilling* or *software development*.
+A partnership established for a specific project or limited time. Typically large capital for a short-term project like *oil drilling* or *software development*.
 
 ## S. Corporation
 

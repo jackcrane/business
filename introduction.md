@@ -16,7 +16,7 @@ nav_order: 1
 
 1. Ideation
   - Build something to solve a problem
-  - Is there a similar problem in a differnt industry
+  - Is there a similar problem in a different industry
 2. Execution
   - Revenue model will determine success or failure
   - Investigate

@@ -34,10 +34,10 @@ A franchise agreement is an Agreement whereby someone with a good idea for a bus
 An entrepreneur is a person who risks his/her wealth, time, and effort for profit
 
 ### Importance of small business to our economy
-- Small finms represent 99.7% of all employer firms
+- Small firms represent 99.7% of all employer firms
 - Small firms have generated 62% of net new jobs
 - Small firms hire approximately 37% of high-tech workers (engineers, programmers)
-- Small firms producte 16x patents per employee
+- Small firms produce 16x patents per employee
 - Small firms employ nearly half of all private-sector employees
 - Small firms pay 42% of the total U.S. private payroll.
 
@@ -50,14 +50,14 @@ An entrepreneur is a person who risks his/her wealth, time, and effort for profi
 
 ### Innovation
 
-- Small firms producte over half of all innovations
+- Small firms produce over half of all innovations
 - AI creating new opportunities for innovation
 - Many of today's largest businesses started as small firms that used innovation to acheive success
 
 ### Industries that attract small businesses
 
 - Retailing
-- Wholesailing
+- Wholesaling
 - Services
 - Manufacturing
 - Technology
@@ -65,10 +65,10 @@ An entrepreneur is a person who risks his/her wealth, time, and effort for profi
 
 # Successful traits of entrepreneurs
 
-|Intuitive|Using intuition to derive what's true without concious reasoning|
+|Intuitive|Using intuition to derive what's true without conscious reasoning|
 |Productive|Being able to produce large amounts of something during a specific time period|
 |Resourceful|Understand how to use resources|
-|Charismathc|Having ability to inspire others|
+|Charismatic|Having ability to inspire others|
 |Innovative|Being able to come up with new ideas|
 |Risk-takers|Having the ability to pursue risky, high-return endeavors despite possibility of failures|
 |Persistent|Continuing in spite of obstacles|

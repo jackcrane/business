@@ -22,6 +22,6 @@ nav_order: 14
 |--|--|--|--|
 |**Current Product**|Penetration & Saturation|Market Development|Intensive market development|
 |**New Product**|Product Development|Related Diversification (new markets)|Product development with intensive market development|
-|**Both**|Intensive product development|Market development wiht intensive product development|Intensive growth|
+|**Both**|Intensive product development|Market development with intensive product development|Intensive growth|
 
 All business strategy decisions should start with a clear understanding of *markets*, *customers*, and *competitors*.

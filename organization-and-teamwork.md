@@ -17,7 +17,7 @@ Defined as an arrangement of positions within an organization.
 
 Structure is developed with:
 - Managers who assign work tasks with specific individuals or groups
-- Coordination of activitise to reach the firm's objectives
+- Coordination of activities to reach the firm's objectives
 
 # Assigning tasks
 ## Specialization
@@ -63,7 +63,7 @@ A company with many layers is considered, A company with few layers is considere
 
 # Forms of Organizational Structure
 
-## Line Strucutre
+## Line Structure
 - Simplest organizational structure
 - Direct lines of authority extend from top management to employees at the lowest levels
 
@@ -73,7 +73,7 @@ A company with many layers is considered, A company with few layers is considere
 
 ## Matrix Structure
 - Sets up teams from different departments; creates 2 or more intersecting lines of authority
-- Provide sflexibility, nehanced cooperation, creativity
+- Provides flexibility, enhanced cooperation, creativity
 - Generally expensive and complex
 
 # The role of Groups and Teams in Organizations
@@ -129,6 +129,6 @@ People tend to miss a considerable amount of information.
 The grapevine, water-cooler talk
 
 ## Monitoring Communications
-- Technologcical advances and increased use of electronic communication have made monitroring communications in the workplace necessary
+- Technological advances and increased use of electronic communication have made monitoring communications in the workplace necessary
 - Failure to monitor employees' use of technology can be costly
 - AI is significantly impacting workplace monitoring, benchmarking, and understanding how employees feel
