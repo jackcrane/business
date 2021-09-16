@@ -14,6 +14,68 @@ nav_order: 12
 
 *Marketing is simple in theory, difficult in practice*
 
+# Market orientation
+
+> Marketing defined in one slide -Mr. Jablonski
+
+All focused around the value.
+
+<table><tr><td markdown="1">
+
+### Where are we?
+- Who are our customers
+- What do they value
+- Who are our competitors
+- What are their strategies
+- What are our goals and capabilities
+
+### Where do we want to be?
+- What value should we provide
+- To whom
+- Can we do it better than the competition
+
+### How should we get there?
+- How should value be created for the customer
+- From what products
+- Through which channels
+- With what communication (**marketing**)
+- At what prices
+</td>
+<td markdown="1">
+
+### Situation analysis
+
+Purpose: to identify key problems and opportunities
+
+**Internal analysis** Goals and capabilities
+
+**External analysis** Customers, competitors, PEST
+
+### Marketing Strategy
+
+Purpose: to determine the 'value proposition'
+
+**Segmentation** Identify segments
+
+**Targeting** Select your target(s)
+
+**Positioning** Develop positioning
+
+### Marketing Mix
+
+Purpose: to determine the 'value delivery'
+
+- Product
+- Place
+- Price
+- Promotion
+- People
+- Process
+
+</td></tr></table>
+
+How can you **retain** the value? **Improve it**? **Regenerate it**? (Implement, monitor, adapt, renew)
+
 # Definitions of marketing
 
 > Marketing is the process of planning and executing the conception, pricing, promotion, and distribution of ideas, goods, services, organizatinos, and events to create and maantain relationships that will satisfy organizational objectives
