@@ -60,3 +60,22 @@ A group of activities designed to expedite transactions by creating, distributin
   - Develop the good, service, or idea to satisfy that want
   - Get the product to the customer
   - Continually alter, adapt, and add products to keep pace with changing customer demands.
+
+# Marketing: The function of business
+
+> Marketing and innovation are the two chief functions of business. You get paid for creating a customer, which is marketing. And yuo get paid for creating a new dimension of perfomance.
+
+## Push - pull theory
+
+### Product
+
+The combination of your company, what your competitors can provide, and what the customers are requiring. Once any of the factors change, the product will have to change as well.
+
+The positioning of a product is `positioning = differentiation + segmentation`. How is our product differentiated from the competition?
+
+Pricing models
+- Cost-based
+- Value-based
+- Competition-based
+
+![Price vs quality matrix](https://getlucidity.com/wp-content/uploads/2021/03/pricing-strategy-matrix.png)
