@@ -103,6 +103,7 @@ What is your uniqueness?
 ## Critical Thinking Questions
 
 > What are some ways that Marriott uses market research to discover what customers want?
+
 They seperate their customers based on Psychographics
 - Price points
 - Type of hotel
