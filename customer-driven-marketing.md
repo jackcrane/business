@@ -79,3 +79,34 @@ Pricing models
 - Competition-based
 
 ![Price vs quality matrix](https://getlucidity.com/wp-content/uploads/2021/03/pricing-strategy-matrix.png)
+
+# Positioning
+
+> Positioning refers to the place that a brand occupies in the minds of the customers and how it is distinguished from the products of the competition.
+
+What is your uniqueness?
+
+![](https://cdn.corporatefinanceinstitute.com/assets/market-positioning-300x202.png)
+
+- Determine company uniqueness by comparing to competitors
+- Identify current market position
+- Competitor positioning analysis
+- Develop a positioning strategy
+
+# Case Study: Marriott
+
+- Intuitive website for brand education
+- Segments market by demographics and psychographics
+- Serves same psychographic group over different pricepoints
+- Always be where your customer is
+
+## Critical Thinking Questions
+
+> What are some ways that Marriott uses market research to discover what customers want?
+They seperate their customers based on Psychographics
+- Price points
+- Type of hotel
+- Level of service
+- Acccessability of destination
+
+They need to find where their target customers are located (print media, social media, social influencers, online, etc). They conduct market research to decide what brand of hotel to build and service at a given location.
