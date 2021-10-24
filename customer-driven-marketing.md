@@ -104,10 +104,67 @@ What is your uniqueness?
 
 > What are some ways that Marriott uses market research to discover what customers want?
 
-They seperate their customers based on Psychographics
+They seperate their customers based on Psychographics and determine what they are looking for in a hotel
 - Price points
+  - High price, high service
+  - High price, self service but more convinient
+  - Low price, self service
 - Type of hotel
+  - Destination/unique
+  - Cookie-cutter (i.e. airport hotels)
 - Level of service
+  - Bellman/concierge/room service
 - Acccessability of destination
+  - Does a customer plan to leave the hotel during the trip or does the hotel internalize everything
 
-They need to find where their target customers are located (print media, social media, social influencers, online, etc). They conduct market research to decide what brand of hotel to build and service at a given location.
+They need to find where their target customers are located (print media, social media, social influencers, online, etc). 
+
+They also conduct market research to decide what brand of hotel to build and service at a given location.
+- Airports have simple, cookie cutter hotels
+- Destinations often have unique cultural hotels/resorts
+
+# Case study: Apple
+
+Spent 1.8 billion on marketing, developers who make the product pages earn 800,000/year and animators make 600k. Spent 500 million marketing Apple TV in the last year.
+
+- Establish themselves as a premium brand
+- Very good with audience insights
+- Good at selling customers on products they don't necessarily use
+- Create a product and a need before it exists (3 steps ahead of the comsumer)
+- Creates fomo
+- Vertically integrated
+- Planned obsolescence
+- Stores and displays are very appealing
+
+# Developing a marketing strategy
+
+- Making products availible to customer in the quantities desired
+
+## Promotion
+
+- Persuasive form of communication that attempts to expedite a marketing exchange by influencing individuals, groups, and organizations to accept goods, services, and ideals. 
+- Includes advertising, personal selling, publicity, and sales promotion
+- Digital advertising on websites and social media sites are growing.
+
+> USP = Unique Selling Proposition
+
+- Primary Data
+  - Observed, recorded, or collected directly from respondents
+  - "Mystery shoppers", surveys, and focus groups
+  - Ethnographic or observational research
+- Secondary data
+  - Compiled inside or outside an organization for some purpose other than chanaging the current situation
+  - Compiled by the U.S. Census Bureau and other government agencies, databases created by marketing research firms.
+
+## Online marketing research
+- Marketing research of the future
+- Virtual testing
+- Digital and social media sites
+- Online surveys
+- Marketing analytics
+
+## Product strategy
+
+Product line is the group of closely related products that are treated as a unit
+
+## Product lifecycle
