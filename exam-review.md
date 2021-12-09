@@ -129,3 +129,24 @@ For fast-moving, widespread businesses a decentralized management system is bett
 - Everyone can control what they need to
 - It is fast
 - It is harder to control
+
+# Human resources
+
+Be able to identify the types of turnover
+- Big deal because it is an overall look at how satisfied your workforce is
+- It is expensive to replace someone
+
+- Promotions, transfers, and seperation create turnover
+
+Wages vs salary vs commission
+
+Job analysis: Watch the person, understand what they do, write down the job description
+
+# Marketing
+
+Market orientation, PEST
+[reference](marketing#market-orientation)
+
+4 P's (Marketing mix)
+
+Functions of marketing / role of marketing
